@@ -8,5 +8,3 @@ print('hi')
 #     return tmp
 #
 # print(hi(10, i=30))
-
-print(type(lambda i: i for i in range(1, 4)))
