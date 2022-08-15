@@ -114,10 +114,3 @@ class test11111(object):
     def __init__(self):
         """Constructor for test11111"""
         pass
-
-class Person():
-    """사람새끼"""
-
-    def __init__(self,sex):
-        """Constructor for Person"""
-        self.sex = sex
