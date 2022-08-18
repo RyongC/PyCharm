@@ -4,7 +4,7 @@ from section6_ex import calcul1, calcul2
 
 # Initialize empty arrays
 
-array_len = 10000
+array_len = 100
 var1 = list(map(lambda i: 1.0, range(array_len)))
 var2 = list(map(lambda i: 2.0, range(array_len)))
 var3 = list(map(lambda i: 3.0, range(array_len)))
